@@ -2,7 +2,7 @@
 
 ## Pirma užduotis ##
 
-* **Įsitikinti, kad custom Vector konteineris veikia taip kaip std::vector konteineris**
+**Įsitikinti, kad custom Vector konteineris veikia taip kaip std::vector konteineris**
 
 5 skirtingos funkcijos, įrodančios viršuje aprašytą sąlygą:
 
